@@ -15,7 +15,7 @@
 }
 
 .yet-to-register-image {
-  width: 90%;
+  width: 80%;
   max-width: 461px;
 }
 
@@ -26,7 +26,7 @@
   font-size: 19px;
   line-height: 1.5;
   margin: 0px;
-  margin-top: 48px;
+  margin-top: 38px;
 }
 
 .register-here-button {
@@ -37,10 +37,10 @@
   font-weight: 500;
   line-height: 1.5;
   background-color: #0967d2;
-  width: 90%;
+  width: 80%;
   border: none;
   border-radius: 8px;
-  margin-top: 48px;
+  margin-top: 38px;
   padding-top: 12px;
   padding-bottom: 12px;
   outline: none;
